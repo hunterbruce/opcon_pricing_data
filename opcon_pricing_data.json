@@ -1,0 +1,258 @@
+[
+  {
+    "category": "EXS-Series",
+    "name": "EXS-40 - Standard Package",
+    "description": "Designed for smaller ordinance replication  and indoor use",
+    "price": 8600.0
+  },
+  {
+    "category": "EXS-Series",
+    "name": "EXS-60 - Standard Package",
+    "description": "Self contained man portable unit with a low profile. Great for most ordinance replication and minimal field obstruction",
+    "price": 11200.0
+  },
+  {
+    "category": "EXS-Series",
+    "name": "EXS-80 - Standard Package",
+    "description": "External tanks and taller chamber for larger ordinance replication",
+    "price": 9800.0
+  },
+  {
+    "category": "EXS-Series",
+    "name": "EXS-400 - Standard Package",
+    "description": "MOAB (Mother of All Bombs) - Close Air Support (CAS) or large ordinance replication",
+    "price": 24500.0
+  },
+  {
+    "category": "SIM-Series",
+    "name": "SIM-SMK-6 Initiator (6 Smoke Capacity)",
+    "description": "Six tube smoke ignitor with 6m wireless receiver",
+    "price": 1400.0
+  },
+  {
+    "category": "SIM-Series",
+    "name": "SIM-SMK-18 Initiator (18 Smoke Capacity)",
+    "description": "Eighteen tube smoke ignitor with 6m wireless receiver",
+    "price": 2400.0
+  },
+  {
+    "category": "SIM-Series",
+    "name": "SIM-RPG - RPG Simulator ",
+    "description": "RPG-7 Shoulder Fire Simulator",
+    "price": 4600.0
+  },
+  {
+    "category": "SIM-Series",
+    "name": "SIM-RPG-6 Initiator (6 Shot Capacity)",
+    "description": "Six tube smoke ignitor with 6m wireless receiver",
+    "price": 1400.0
+  },
+  {
+    "category": "SIM-Series",
+    "name": "SIM-RPG-18 Initiator (18 Shot Capacity)",
+    "description": "Eighteen tube smoke ignitor with 6m wireless receiver",
+    "price": 2800.0
+  },
+  {
+    "category": "Electronics",
+    "name": "18R2 Universal Wireless Remote",
+    "description": "Wireless/Smart Firing System - Compatible with all our units, Script Firing Capable",
+    "price": 1800.0
+  },
+  {
+    "category": "Electronics",
+    "name": "6M Wireless Receiver",
+    "description": "6 Cue Capable - Wireless Receiver for 18R2 Wireless Remote",
+    "price": 1200.0
+  },
+  {
+    "category": "Electronics",
+    "name": "36M Wireless Receiver",
+    "description": "36 Cue Capable - Wireless Receiver for 18R2 Wireless Remote",
+    "price": 3400.0
+  },
+  {
+    "category": "Electronics",
+    "name": "Audio Box - Audible Immersion Sound System",
+    "description": "Wireless Audio Receiver, Weatherized/Battery Powered Speaker - 400W Output w/ Stand & Cover.",
+    "price": 4800.0
+  },
+  {
+    "category": "Accessories",
+    "name": "Equipment Trailer",
+    "description": "Custom OPCON trailer to move and stage equipment",
+    "price": 38500.0
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - Earth Impact (Case = 6/Units)",
+    "description": "Earth Impact Powder Containment Shells replicate ordinance impacts on natural ground",
+    "price": 18.35
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - Target Impact (Case = 6/Units)",
+    "description": "Target Impact Powder Containment Shells used with our EXS sims for special round on target effects",
+    "price": 23.25
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - Night fire (Case = 6/Units)",
+    "description": "Night fire Powder Containment Shells uses a flash powder to produce  vibrant effect on target.",
+    "price": 24.75
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - CBRN Attack (Case = 6/Units)",
+    "description": "CBRN Attack PUCS uses a combination of yellow and flash powder to give a non standard round on target effect",
+    "price": 32.5
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - White Phosphorous (Case = 6/Units)",
+    "description": "White Phosphorus PUCS utilize white powder and magnesium to replicate 'WILLY P'",
+    "price": 48.25
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - MOAB  - Earth Impact",
+    "description": "Large Effect PUC for MOAB Unit - Earth Impact Powder Containment Shell",
+    "price": 82.0
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - MOAB  -  Target Impact",
+    "description": "Large Effect PUC for MOAB Unit - Target Impact Powder Containment Shell",
+    "price": 95.0
+  },
+  {
+    "category": "Consumables",
+    "name": "PUCS - MOAB  - Night Fire",
+    "description": "Large Effect PUC for MOAB Unit - Night Fire Powder Containment Shell",
+    "price": 128.0
+  },
+  {
+    "category": "Consumables",
+    "name": "Smoke TP40: E-match/Wire-Pull Smoke Grenade",
+    "description": "Base level smoke grenade with electronic ignition",
+    "price": 18.5
+  },
+  {
+    "category": "Consumables",
+    "name": "Smoke EG18: E-match/Wire-Pull Smoke Grenade",
+    "description": "Longer burning smoke with electronic ignition",
+    "price": 23.5
+  },
+  {
+    "category": "Consumables",
+    "name": "Smoke SD57: E-match/Wire-Pull Smoke Grenade",
+    "description": "Longer burning and heavier coverage with electronic ignition",
+    "price": 64.25
+  },
+  {
+    "category": "Consumables",
+    "name": "Smoke CM75: E-match/Wire-Pull Smoke Grenade",
+    "description": "Very long burning smoke with electronic ignition",
+    "price": 64.75
+  },
+  {
+    "category": "Consumables",
+    "name": "Smoke MIL-X: Wire-Pull Smoke Grenade",
+    "description": "Short burn smoke with heavy coverage electronic ignition and pull pin",
+    "price": 68.25
+  },
+  {
+    "category": "Consumables",
+    "name": "Flash 3.0: E-Match/Wire-Pull Flash Bang Grenade",
+    "description": "Training flash bang (120Db)",
+    "price": 18.5
+  },
+  {
+    "category": "Consumables",
+    "name": "RPG1-HX (Report Only)",
+    "description": "(1.4G Pyro) Shoulder Fire RPG Only - Produces audible report down range, 75m Range",
+    "price": 45.0
+  },
+  {
+    "category": "Consumables",
+    "name": "RPG2-HX (Report & Tracer)",
+    "description": "(1.4G Pyro) Shoulder Fire RPG Only - Produces smoke trail/audible report down range, 75m Range",
+    "price": 48.0
+  },
+  {
+    "category": "Consumables",
+    "name": "RPG3-HX (Tracer Only)",
+    "description": "(1.4G Pyro) Shoulder Fire RPG Only - Produces smoke trail, 75m Range",
+    "price": 45.0
+  },
+  {
+    "category": "Consumables",
+    "name": "RPG-1N (Report Only)",
+    "description": "(1.4G Pyro) SIM-RPG Fire Only - Produces audible report down range, 75m Range",
+    "price": 44.0
+  },
+  {
+    "category": "Consumables",
+    "name": "RPG-2N (Report & Tracer)",
+    "description": "(1.4G Pyro) SIM-RPG Fire Only - Produces smoke trail/audible report down range, 75m Range",
+    "price": 48.0
+  },
+  {
+    "category": "Consumables",
+    "name": "RPG-3N (Tracer Only)",
+    "description": "(1.4G Pyro) SIM-RPG Fire Only - Produces smoke trail, 75m Range",
+    "price": 44.0
+  },
+  {
+    "category": "Consumables",
+    "name": "Mortar-1N (Report Only)",
+    "description": "(1.4G Pyro) SIM-RPG Fire Only - Produces Air Burst, 75m Range",
+    "price": 39.0
+  },
+  {
+    "category": "Consumables",
+    "name": "Mortar-2N (Whistle & Report)",
+    "description": "(1.4G Pyro) SIM-RPG Fire Only - Produces whistle Sound and Air Burst, 75m Range",
+    "price": 40.0
+  },
+  {
+    "category": "Consumables",
+    "name": "Mortar-3N (Whistle Only)",
+    "description": "(1.4G Pyro) SIM-RPG Fire Only - Produces whistle sound only, 75m Range",
+    "price": 40.0
+  },
+  {
+    "category": "Accessories",
+    "name": "Tank Set Deployment Case",
+    "description": "Pelican style hard, self contained, tank deployment case",
+    "price": 460.0
+  },
+  {
+    "category": "Accessories",
+    "name": "SIM-Series Case (Single)",
+    "description": "SIM-Series, Pelican style storage case (Single Device)",
+    "price": 480.0
+  },
+  {
+    "category": "Accessories",
+    "name": "SIM-Series Case (Double)",
+    "description": "SIM-Series, Pelican style storage case (Two Device)",
+    "price": 620.0
+  },
+  {
+    "category": "Accessories",
+    "name": "EXS-40 Case",
+    "description": "EXS-Series, Pelican style storage case (EXS-40 and Included Accessories)",
+    "price": 520.0
+  },
+  {
+    "category": "Accessories",
+    "name": "EXS-60 Case",
+    "description": "EXS-Series, Pelican style storage case (EXS-60 and Included Accessories)",
+    "price": 640.0
+  },
+  {
+    "category": "Accessories",
+    "name": "EXS-80 Case",
+    "description": "EXS-Series, Pelican style storage case (EXS-80 and Included Accessories)",
+    "price": 680.0
